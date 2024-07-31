@@ -2,7 +2,7 @@
 
 <img src="./Images/Leon.png" width="100%" alt="" />
 
-- Live Preview ⭕🔗: https://mostafasaafan5517.github.io/Leon
+- Live Preview ⭕🔗: https://mostafasaafan5517.github.io/leon
 
 ## Introduction
 
