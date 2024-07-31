@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to **Leon**,a web template that is perfect for startups, agencies, and small businesses. The template is built with simplicity in mind and is easy to customize. It features a modern and clean design, with a focus on clarity and readability. The template is fully responsive and mobile-friendly, ensuring that it works well on all devices.
+Welcome to **Leon**, a web template that is perfect for startups, agencies, and small businesses. The template is built with simplicity in mind and is easy to customize. It features a modern and clean design, with a focus on clarity and readability. The template is fully responsive and mobile-friendly, ensuring that it works well on all devices.
 
 ## Technologies Used
 
